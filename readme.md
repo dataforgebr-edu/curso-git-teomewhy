@@ -4,3 +4,11 @@
 
 **Curso de git e GitHub com toda a estrutura de versionamento e integração com o GitHub.**
 
+
+
+**------------**
+
+
+
+**Nova descrição adicionada** 
+
