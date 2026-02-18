@@ -1,14 +1,12 @@
 # \# Curso TMW Git \& GitHub 2025
 
+**Mais uma descrição adicionada ao código**
 
+**-----------**
 
-**Curso de git e GitHub com toda a estrutura de versionamento e integração com o GitHub.**
-
-
+**Descrição na branch "descricao"**
 
 **------------**
-
-
 
 **Nova descrição adicionada** 
 
